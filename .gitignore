@@ -2,6 +2,10 @@
 logs
 *.log
 
+*.map
+*~
+*compiled.js
+
 # Runtime data
 pids
 *.pid
